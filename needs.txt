@@ -1,144 +1,66 @@
-=== The big list of business ideas ===
+== According to Tony Robbins ==
 
-I want to start a business, but don't know what to do and where to start. This list provides inspiration.
-I try to find connection between basic human needs (like Maslow's heirarchy of needs), consumer market, professions.
+- Certainty/Comfort
+- Uncertainty/Variety
+- Significance
+- Love & Connection
+- Growth
+- Contribution
 
-Market research: whether such a list already exists on the internet:
+== Human needs ==
 
-
-Websites used for compiling this list, for inspiration:
-list.am
-stackexchange.com/sites
-www.amazon.com/gp/site-directory/
-gist.github.com/mbejda/19012b99a12e9d014389
-eresearch.fidelity.com/eresearch/markets_sectors/sectors/sectors_in_market.jhtml
-
-
-Everything in this list has 2 components:
-- Production
-- Marketing
-- Selling/Renting
-
-
-Needs of people
-
-- Security
-	- Shelter
-		- Housing
-			- Architecture
-			- Construction
-				- Construction work
-				- Building materials
-		- Accessories
-			- Furniture
-			- Household appliances
-	- Protection
-		- Physical enforcement services
-			- Bodyguards
-			- Military
-			- Police
-		- Firefighting
-		- Home security equipment
-		- Weapons
-	- Cyber security
-		- Antiviruses
-		- Information security
-			- Cryptography
-			- Information hiding
-	- Law services
-	- Insurance
-
-
-
-- Eating/drinking                          Food                Ingredients
-                                                               Ready food         Restaurants
-															                      Cafe
-                                           Drinks              Water              Bottled
-										                                          Tap water
-										                       Alcohol
-															   Tea
-															   Coffee
-- Health                                   Physical            Sports
-                                                               Hospitals
-                                           Spiritual           Religion
-										                       Meditation
-- Clothing                                 Shoes
-                                           Bags
-										   Clothes
-- Self esteem, acceptance by others        Cosmetics
-                                           Clothing
-										   Jewelry
-										   Luxury everyting^\/
-- Movement                                 Cars
-                                           Airplanes
-										   Taxi
-										   Public transport    Trams
-										                       Trains           Sport areas
-															                    Sport equipment
-										   Bicycles
-- Recreation/Relaxation/Fun                Games               Sports
-                                                               Video games
-										   Art                 Movies            Movies
-										                                         Cartoons
-										                       Video games
-															   Music
-															   Videos
-															   Painting
-										   Books               Audiobooks
-										                       Physical books
-										   Pets
-										   Gambling            Casinos
-										                       Online gambling
-															   Betting
-										   Tourism
-										   Substances          Tobacco
-										                       Drugs
-- Human contact
+- Esteem
+	- Self esteem (Contribution)
+	- Acceptance
+		- Identity
+		- Approval
+		- Recognition
+		- Fame
+- Body needs
+	- Air
+	- Light
+	- Food
+	- Hydration
+- Protection
+	- Physical
+		- Weather
+		- Criminals
+		- Fire
+		- Privacy
+		- Lawsutes
+	- Cyber
+		- Viruses
+		- Online privacy
+		- Personal Information
+	- From unexpected events
+- Health
+	- Physical
+	- Mental
+- Clothing
+	- Clothes
+	- Shoes
+	- Containers
+- Human connection
 	- Physical
 		- Sex
-			- Prostitution
-			- Porn
-		- Dating, Family
+		- Relationships
 	- Cognitive
 		- Verbal
-			- Via Phone
-			- Via Social Websites/Messenger
-			- Via Speaking
 		- Non-verbal
-			- Gifts
-- Knawledge                                Books^
-                                           News                TV
-										                       Newspapers
-															   Blogs
-										   Classes             School
-										                       University
-															   Learning centers
-
-
-
-
-Meta:
-- Money                                    Banks               Non-crypto
-                                                               Crypto
-										   Accounting
-                                           Loans
-- IT                                       Hardware            Physical Servers
-                                                               PC               Desktop towers
-															   Mobile phones    Smart phones
-															                    Stupid phones
-										   Networking          ISP
-										                       Wired networks
-															   Wireless
-                                           Software            OS
-										                       Applications     Desktop
-															                    Web
-																				Mobile
-- Management                               Business            Human resources
-                                                               People management
-                                           Government
-- Transportation                           Of people
-                                           Of goods
-
-
-Other:
-- People will spend extra on anything related to children/pets
+- Knowledge
+	- Education
+	- News
+- Contribution
+	- Teaching
+	- Doing good
+- Teaching
+- Relaxation
+	- Sleep
+	- Fun, Pleasure
+		- Aesthetic
+		- Hearing
+		- Touching
+		- Emotional
+- Transportation
+	- Long distance
+	- Everyday
