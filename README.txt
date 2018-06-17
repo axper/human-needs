@@ -15,10 +15,5 @@ Websites used for compiling this list, for inspiration:
 - gist.github.com/mbejda/19012b99a12e9d014389
 - eresearch.fidelity.com/eresearch/markets_sectors/sectors/sectors_in_market.jhtml
 
-Everything in this list has 2 components:
-- Production
-- Marketing
-- Selling/Renting
-
 Other:
 - People will spend extra on anything related to children/pets
