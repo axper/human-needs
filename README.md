@@ -56,29 +56,29 @@
 1. ![check] Esteem
 	1. ![retweet] Self esteem
 	2. ![arrows-alt] Acceptance, Ego
-		- ![snowflake-o] Identity
-		- ![thumbs-up] Approval
-		- ![star-half-o] Recognition
-		- ![star] Fame
+		1. ![snowflake-o] Identity
+		2. ![thumbs-up] Approval
+		3. ![star-half-o] Recognition
+		4. ![star] Fame
 2. ![male] Body needs
-	- ![cloud] Air
-	- ![sun-o] Light
-	- ![cutlery] Food
-	- ![tint] Hydration
-	- ![bath] Hygiene
-	- ![trash] Cleanness
+	1. ![cloud] Air
+	2. ![sun-o] Light
+	3. ![cutlery] Food
+	4. ![tint] Hydration
+	5. ![bath] Hygiene
+	6. ![trash] Cleanness
 3. ![shield] Protection
-	- ![lock] Physical
-		- ![sun-o] Weather
-		- ![user-secret] Criminals
-		- ![fire] Fire
-		- ![eye-slash] Privacy
-		- ![list-ol] Lawsuits
-	- ![chrome] Cyber
-		- ![windows] Viruses
-		- ![user-secret] Online privacy
-		- ![info-circle] Personal Information
-	- ![bolt] From unexpected events
+	1. ![lock] Physical
+		1. ![sun-o] Weather
+		2. ![user-secret] Criminals
+		3. ![fire] Fire
+		4. ![eye-slash] Privacy
+		5. ![list-ol] Lawsuits
+	2. ![chrome] Cyber
+		1. ![windows] Viruses
+		2. ![user-secret] Online privacy
+		3. ![info-circle] Personal Information
+	3. ![bolt] From unexpected events
 4. ![plus-square] Health
 	1. ![futbol-o] Physical
 	2. ![commenting] Mental
