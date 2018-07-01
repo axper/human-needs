@@ -51,6 +51,7 @@
 [retweet]: https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/16/retweet.png
 [arrows-alt]: https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/16/arrows-alt.png
 [paw]: https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/16/paw.png
+[trash]: https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/16/trash.png
 
 1. ![check] Esteem
 	1. ![retweet] Self esteem
@@ -65,6 +66,7 @@
 	- ![cutlery] Food
 	- ![tint] Hydration
 	- ![bath] Hygiene
+	- ![trash] Cleanness
 3. ![shield] Protection
 	- ![lock] Physical
 		- ![sun-o] Weather
