@@ -9,10 +9,11 @@ The resources:
 - Sources of income
 - Social connections
 	Knowing the people is the income of brains and muscles
+	- Trust
+	- Friendship
 - Power & Authority
 - Natural resources
-	- Land masses
-	- Rivers, oceans
+	- Land, rivers, oceans
 - Knowledge
 - Physical force
 - Health & Life
