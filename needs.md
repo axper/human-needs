@@ -1,4 +1,5 @@
-== According to Tony Robbins ==
+According to Tony Robbins
+==
 
 - Certainty/Comfort
 - Uncertainty/Variety
@@ -7,7 +8,8 @@
 - Growth
 - Contribution
 
-== Human needs ==
+Human needs
+==
 
 - Esteem
 	- Self esteem (Contribution)
