@@ -1,0 +1,34 @@
+# Business needs
+
+- Space
+    - Office space
+- Transportation
+    - Production materials, ready products
+    - Employees
+- Knowledge
+    - Knowledge of their sphere
+    - Social connections with other businesses
+    - Marketing: popularity of own brand
+- Protection
+	- Physical
+		- Weather
+		- Criminals
+		- Fire
+		- Privacy
+		- Lawsuits
+	- Cyber
+		- Viruses
+		- Online privacy
+		- Personal Information
+	- From unexpected events
+- Leadership
+    - Management
+    - Direction
+- Accounting
+    - Paperwork
+    - Taxes
+- Flow of employees
+    - Hiring
+    - Firing
+- Communication
+

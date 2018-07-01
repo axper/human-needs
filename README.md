@@ -1,12 +1,3 @@
-# According to Tony Robbins
-
-1. Certainty/Comfort
-2. Uncertainty/Variety
-3. Significance
-4. Love & Connection
-5. Growth
-6. Contribution
-
 # Human needs
 
 [check]: https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/16/check.png
@@ -115,38 +106,3 @@
 11. ![car] Transportation
     1. ![plane] Long distance
 	2. ![bus] Everyday
-
-# Business needs
-
-- Space
-    - Office space
-- Transportation
-    - Production materials, ready products
-    - Employees
-- Knowledge
-    - Knowledge of their sphere
-    - Social connections with other businesses
-    - Marketing: popularity of own brand
-- Protection
-	- Physical
-		- Weather
-		- Criminals
-		- Fire
-		- Privacy
-		- Lawsuits
-	- Cyber
-		- Viruses
-		- Online privacy
-		- Personal Information
-	- From unexpected events
-- Leadership
-    - Management
-    - Direction
-- Accounting
-    - Paperwork
-    - Taxes
-- Flow of employees
-    - Hiring
-    - Firing
-- Communication
-
