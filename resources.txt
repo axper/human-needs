@@ -16,4 +16,8 @@ The resources:
 	- Land, rivers, oceans
 - Knowledge
 - Physical force
+    - Muscles, physical labor
+    - Enforcement
 - Health & Life
+- Energy
+    - Electric
