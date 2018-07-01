@@ -53,7 +53,7 @@
 [paw]: https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/16/paw.png
 
 1. ![check] Esteem
-	1. ![retweet] Self esteem (Contribution)
+	1. ![retweet] Self esteem
 	2. ![arrows-alt] Acceptance, Ego
 		- ![snowflake-o] Identity
 		- ![thumbs-up] Approval
